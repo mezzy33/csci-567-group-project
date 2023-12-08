@@ -6,6 +6,7 @@
 The inception of this project is driven by the critical goal of enhancing the prediction accuracy of Bitcoin prices, a subject of great significance in the financial sector. Existing methodologies in this realm often falter due to the volatile nature of cryptocurrency markets, leading to predictions that are less reliable and, at times, misleading. Our approach, grounded in a comparative analysis of three important models：
 
 - AutoRegressive Integrated Moving Average (ARIMA)
+- Ensemble Learning
 - Linear Regressions (LRs)
 - Long Short-Term Memory Networks (LSTM)
 - Generative Adversarial Networks (GAN)
@@ -63,7 +64,7 @@ https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-other-14-most-sign
 - `CSCI567 Baseline Models.ipynb`: Our baseline models
 - `CSCI567 GAN.ipynb` : GAN model
 - `CSCI567 GRU.ipynb` : GRU model
-- CSCI567 Poster.pdf` : The project poster file.
+- `CSCI567 Poster.pdf` : The project poster file.
 - `CSCI567 WGAN-GP.ipynb` : WGAN-GP model
 - `CSCI567Project_Bitcoin_Predict_lstm.ipynb` :This the jupyter notebook for building the LSTM model to predict bitcoin.
 - `merge.py` :  This py file show the detail how we process the data.
