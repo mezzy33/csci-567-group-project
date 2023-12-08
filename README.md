@@ -1,4 +1,4 @@
-# csci-567-grou-project
+# csci-567-group-project
 
 # LSTM model
 - File name:Project_Bitcoin_Predict_lstm.ipynb
