@@ -32,6 +32,7 @@ This are the softwares needed and how to install them.
   pip install keras
   pip install sklearn
   pip install matplotlib
+  pip install xgboost
   ```
 
 
