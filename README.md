@@ -1,5 +1,5 @@
 # csci-567-group-project
-
+<a name="readme-top"></a>
 
 
 ## About the project
@@ -60,9 +60,33 @@ https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-other-14-most-sign
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Files
+- `CSCI567 Baseline Models.ipynb`: Our baseline models
+- `CSCI567 GAN.ipynb` : GAN model
+- `CSCI567 GRU.ipynb` : GRU model
+- CSCI567 Poster.pdf` : The project poster file.
+- `CSCI567 WGAN-GP.ipynb` : WGAN-GP model
 - `CSCI567Project_Bitcoin_Predict_lstm.ipynb` :This the jupyter notebook for building the LSTM model to predict bitcoin.
+- `merge.py` :  This py file show the detail how we process the data.
 - `Merged_Data.csv` : This is our cleaned data csv file.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
+
+## Authors
+
+- Yu Du
+- Yikun Chen
+- Zheng Bao
+- Zhiyuan Zhou
+- Chao Li
+
+**Department of Computer Science**  
+University of Southern California  
+Los Angeles, CA 90017, USA  
+
+**Email**:  
+- Yu Du: [ydu35952@usc.edu](mailto:ydu35952@usc.edu)
+- Yikun Chen: [yikunche@usc.edu](mailto:yikunche@usc.edu)
+- Zheng Bao: [baojames@usc.edu](mailto:baojames@usc.edu)
+- Zhiyuan Zhou: [zzhou534@usc.edu](mailto:zzhou534@usc.edu)
+- Chao Li: [cli49003@usc.edu](mailto:cli49003@usc.edu)
 
