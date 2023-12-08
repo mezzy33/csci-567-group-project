@@ -4,7 +4,7 @@
 
 ## About the project
 
-An analysis of different model in predicting the bitcoin.
+The inception of this project is driven by the critical goal of enhancing the prediction accuracy of Bitcoin prices, a subject of great significance in the financial sector. Existing methodologies in this realm often falter due to the volatile nature of cryptocurrency markets, leading to predictions that are less reliable and, at times, misleading. Our approach, grounded in a comparative analysis of three important models – Generative Adversarial Networks (GAN), AutoRegressive Integrated Moving Average (ARIMA), and Long Short-Term Memory Networks (LSTM) – seeks to address these challenges. We observed that while individual models have been explored in isolation, a comprehensive comparative study that encapsulates the strengths and weaknesses of these models in tandem is lacking. Our solution is a careful examination of these models, assessing their accuracy, reliability, and computational efficiency in the context of Bitcoin price forecasting.
 - ARIMA
 - LRs
 - GAN
@@ -38,7 +38,6 @@ This are the softwares needed and how to install them.
   ```
 
 
-
 ### Source of Data
 S&P 500 Index: 
 https://fred.stlouisfed.org/series/SP500
@@ -60,19 +59,12 @@ https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL
 
 Bitcoin, BNB, Cardano, Ethereum, Litecoin, XRP:
 https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-other-14-most-significant-cryptos/data
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Files
+- `CSCI567Project_Bitcoin_Predict_lstm.ipynb` :This the jupyter notebook for building the LSTM model to predict bitcoin.
 
-### Project_Bitcoin_Predict_lstm.ipynb LSTM model
-File name:Project_Bitcoin_Predict_lstm.ipynb
-It shows the works in the LSTM
-This the jupyter notebook for building the LSTM model to predict bitcoin.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Data preparetion
-read the clean data
-Feature procese
-remove rows
-Modeling
-Building a basic LSTM model
-Experiments finding the best structure design of the LSTM(Automation programe to find best LSTM model for the target)
-Result
-Calculate the RMSE and Plot the real vs predict graph
+## Contact
+
