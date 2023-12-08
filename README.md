@@ -1,4 +1,4 @@
-# csci-567-group-project
+# CSCI-567-Fall-2023-group-project
 <a name="readme-top"></a>
 
 ## About the project
