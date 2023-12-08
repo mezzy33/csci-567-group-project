@@ -4,21 +4,19 @@
 
 ## About the project
 
-The inception of this project is driven by the critical goal of enhancing the prediction accuracy of Bitcoin prices, a subject of great significance in the financial sector. Existing methodologies in this realm often falter due to the volatile nature of cryptocurrency markets, leading to predictions that are less reliable and, at times, misleading. Our approach, grounded in a comparative analysis of three important models – Generative Adversarial Networks (GAN), AutoRegressive Integrated Moving Average (ARIMA), and Long Short-Term Memory Networks (LSTM) – seeks to address these challenges. We observed that while individual models have been explored in isolation, a comprehensive comparative study that encapsulates the strengths and weaknesses of these models in tandem is lacking. Our solution is a careful examination of these models, assessing their accuracy, reliability, and computational efficiency in the context of Bitcoin price forecasting.
-- ARIMA
-- LRs
-- GAN
-- LSTM
-We compare these model performances.
+The inception of this project is driven by the critical goal of enhancing the prediction accuracy of Bitcoin prices, a subject of great significance in the financial sector. Existing methodologies in this realm often falter due to the volatile nature of cryptocurrency markets, leading to predictions that are less reliable and, at times, misleading. Our approach, grounded in a comparative analysis of three important models：
+
+- AutoRegressive Integrated Moving Average (ARIMA)
+- Linear Regressions (LRs)
+- Long Short-Term Memory Networks (LSTM)
+- Generative Adversarial Networks (GAN)
+
+  We try to use them to address these challenges. We observed that while individual models have been explored in isolation, a comprehensive comparative study that encapsulates the strengths and weaknesses of these models in tandem is lacking. Our solution is a careful examination of these models, assessing their accuracy, reliability, and computational efficiency in the context of Bitcoin price forecasting.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 Writen by the python
-- sklearn
-- keras
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Getting Started
 
@@ -63,7 +61,7 @@ https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-other-14-most-sign
 
 ## Files
 - `CSCI567Project_Bitcoin_Predict_lstm.ipynb` :This the jupyter notebook for building the LSTM model to predict bitcoin.
-
+- `Merged_Data.csv` : This is our cleaned data csv file.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
