@@ -26,7 +26,7 @@ We have analysised couples of model. They are showed in different jupyternoteboo
 ### Prerequisites
 
 This are the softwares needed and how to install them.
-* npm
+* install packages
   ```sh
   pip install tensorflow
   pip install numpy
