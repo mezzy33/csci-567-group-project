@@ -1,6 +1,23 @@
 # csci-567-group-project
 <a name="readme-top"></a>
+## Authors
 
+- Yu Du
+- Yikun Chen
+- Zheng Bao
+- Zhiyuan Zhou
+- Chao Li
+
+**Department of Computer Science**  
+University of Southern California  
+Los Angeles, CA 90017, USA  
+
+**Email**:  
+- Yu Du: [ydu35952@usc.edu](mailto:ydu35952@usc.edu)
+- Yikun Chen: [yikunche@usc.edu](mailto:yikunche@usc.edu)
+- Zheng Bao: [baojames@usc.edu](mailto:baojames@usc.edu)
+- Zhiyuan Zhou: [zzhou534@usc.edu](mailto:zzhou534@usc.edu)
+- Chao Li: [cli49003@usc.edu](mailto:cli49003@usc.edu)
 
 ## About the project
 
@@ -71,22 +88,5 @@ https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-other-14-most-sign
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Authors
 
-- Yu Du
-- Yikun Chen
-- Zheng Bao
-- Zhiyuan Zhou
-- Chao Li
-
-**Department of Computer Science**  
-University of Southern California  
-Los Angeles, CA 90017, USA  
-
-**Email**:  
-- Yu Du: [ydu35952@usc.edu](mailto:ydu35952@usc.edu)
-- Yikun Chen: [yikunche@usc.edu](mailto:yikunche@usc.edu)
-- Zheng Bao: [baojames@usc.edu](mailto:baojames@usc.edu)
-- Zhiyuan Zhou: [zzhou534@usc.edu](mailto:zzhou534@usc.edu)
-- Chao Li: [cli49003@usc.edu](mailto:cli49003@usc.edu)
 
