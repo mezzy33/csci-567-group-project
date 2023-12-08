@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-other-14-most-sign
 - `CSCI567 WGAN-GP.ipynb` : WGAN-GP model
 - `CSCI567Project_Bitcoin_Predict_lstm.ipynb` :This the jupyter notebook for building the LSTM model to predict bitcoin.
 - `merge.py` :  This py file show the detail how we process the data.
-- /datasets: Pre-merged datasets
+- `/dataset`: Pre-merged datasets
 - `Merged_Data.csv` : This is our cleaned data csv file.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
